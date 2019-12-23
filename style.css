@@ -1,0 +1,40 @@
+body {
+    background-color: aquamarine;
+}
+
+.title {
+    text-align: center;
+    padding: 25px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.etch {
+    display: grid;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.etch-item {
+    background-color: white;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.resize-btn {
+    border-radius: 2px;
+}
+
+.clear-btn {
+    border-radius: 2px;
+}
