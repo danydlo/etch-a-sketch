@@ -4,6 +4,8 @@ body {
 
 .title {
     text-align: center;
+    font-family: "Alex Brush";
+    font-size: 20px;
     padding: 25px;
     border: 2px solid black;
     border-radius: 8px;
